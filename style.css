@@ -10,6 +10,7 @@
 
 html,
 body {
+  margin: 0;
   height: 100%;
   font-size: 20px;
   line-height: 1.5;
@@ -35,18 +36,22 @@ body {
   font-size: 50px;
   font-weight: bold;
   border: 2px solid grey;
-  margin: 0 auto;
+  margin: 10px auto;
   height: 100px;
-  width: 100px;
+  width: 150px;
   align-items: center;
   text-align: center;
+  border-radius: 5px;
 }
 
 button {
-  width: 100px;
+  width: 150px;
   margin: 0 auto;
   padding: 20px 40px;
-  /* margin: 40px 0px; */
+  margin-top: 20px;
+  margin-bottom: 20px;
   border-radius: 5px;
   border: none;
+  text-align: center;
+  cursor: pointer;
 }
