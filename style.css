@@ -29,6 +29,7 @@ body {
   color: #fff;
   display: flex;
   flex-direction: column;
+  padding: 40px 0;
 }
 
 .input {
@@ -36,12 +37,14 @@ body {
   font-size: 50px;
   font-weight: bold;
   border: 2px solid grey;
-  margin: 10px auto;
+  margin: 20px auto;
   height: 100px;
   width: 150px;
   align-items: center;
   text-align: center;
   border-radius: 5px;
+  background-color: #6943ff;
+  color: #fff;
 }
 
 button {
@@ -54,4 +57,6 @@ button {
   border: none;
   text-align: center;
   cursor: pointer;
+  font-size: 20px;
+  font-weight: 500;
 }
