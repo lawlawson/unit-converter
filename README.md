@@ -2,6 +2,8 @@
 
 The **Unit Converter App** is a web-based tool built with HTML, CSS, and JavaScript that converts measurements for length, volume, and mass. Users simply enter a number, click the "Convert" button, and see the converted values for each category.
 
+![](/screenshot.png)
+
 ## Table of Contents
 
 1. [Features](#features)
@@ -21,7 +23,7 @@ The **Unit Converter App** is a web-based tool built with HTML, CSS, and JavaScr
 
 ### Demo
 
-You can access a live demo of the **Unit Converter App** (https://unique-speculoos-a2c8a4.netlify.app/)[here]:
+You can access a live demo of the **Unit Converter App** [here](https://unique-speculoos-a2c8a4.netlify.app/):
 
 ### Technologies Used
 
