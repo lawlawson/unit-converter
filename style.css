@@ -22,6 +22,8 @@ body {
   flex-direction: column;
   margin: 0 auto;
   text-align: center;
+  height: 100%;
+  background-color: #202a38;
 }
 
 .header {
@@ -59,4 +61,26 @@ button {
   cursor: pointer;
   font-size: 20px;
   font-weight: 500;
+}
+
+.output {
+  margin: 0;
+  background-color: #202a38;
+}
+
+.length,
+.volume,
+.mass {
+  background-color: #27354a;
+  color: #fff;
+  margin: 0 auto;
+  padding: 30px 0;
+  margin: 40px 20px;
+}
+
+.title {
+  color: #989ac0;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 20px;
 }
